@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/phillipjung/dev/mapulse/app/functions'
+let g:netrw_dirhist_2='/Users/phillipjung/dev/mapulse/app/src/lib/macompose/test'
+let g:netrw_dirhist_3='/Users/phillipjung/dev/mapulse/app/src/components'
+let g:netrw_dirhist_4='/Users/phillipjung/dev/academyxi/axi-cron-jobs/lib'
+let g:netrw_dirhist_5='/Users/phillipjung/dev/academyxi/webapi/web-api/src'
